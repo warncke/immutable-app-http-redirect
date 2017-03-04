@@ -1,0 +1,25 @@
+{
+  "author": "Ersun Warncke <ersun.warncke@gmail.com>",
+  "dependencies": {
+
+  },
+  "description": "Immutable app http redirect",
+  "devDependencies": {
+    "chai": "3.5.0",
+    "mocha": "3.2.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "engines": {
+    "node": ">=7.6.0"
+  },
+  "license": "MIT",
+  "main": "lib/immutable-app-http-redirect.js",
+  "name": "immutable-app-http-redirect",
+  "repository": "warncke/immutable-app-http-redirect",
+  "scripts": {
+    "test": "mocha"
+  },
+  "version": "0.1.0"
+}

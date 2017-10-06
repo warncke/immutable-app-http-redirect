@@ -4,7 +4,7 @@
   "description": "Immutable app http redirect",
   "devDependencies": {
     "chai": "4.1.2",
-    "mocha": "4.0.0"
+    "mocha": "4.0.1"
   },
   "directories": {
     "test": "test"
@@ -19,5 +19,5 @@
   "scripts": {
     "test": "mocha"
   },
-  "version": "0.1.15"
+  "version": "0.1.16"
 }
